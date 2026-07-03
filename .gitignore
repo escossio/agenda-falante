@@ -2,4 +2,13 @@
 *.env
 config/*.env
 !config/tts.example.env
-
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+.coverage
+htmlcov/
+output/
+tmp/
+temp/
+*.tmp

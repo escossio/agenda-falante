@@ -59,6 +59,10 @@ A primeira implementação funcional do projeto foi iniciada com a camada de imp
 - Execução real controlada de um item do plano TTS preparada.
 - CLI de execução real controlada agora exige base URL explícita.
 - Auditoria arquitetural pré-commit concluída.
+- Repositório limpo.
+- Versionamento inicial criado.
+- Branch principal padronizada.
+- Identidade Git configurada localmente.
 - Manifesto de contatos normalizados gerado sem informações de áudio.
 - Validação básica executada com arquivo VCF de exemplo.
 - Validação básica executada com arquivo CSV de exemplo.
