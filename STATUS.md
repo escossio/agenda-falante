@@ -66,6 +66,8 @@ A primeira implementação funcional do projeto foi iniciada com a camada de imp
 - Roadmap GitHub da milestone `v0.1.0-alpha` planejado.
 - Script de importação do roadmap GitHub criado.
 - Importação do roadmap GitHub `v0.1.0-alpha` executada com sucesso.
+- Primeira demonstração ponta a ponta do Agenda Falante implementada.
+- Documentação da primeira demonstração funcional de áudio real criada.
 - Manifesto de contatos normalizados gerado sem informações de áudio.
 - Validação básica executada com arquivo VCF de exemplo.
 - Validação básica executada com arquivo CSV de exemplo.
