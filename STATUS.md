@@ -63,6 +63,9 @@ A primeira implementação funcional do projeto foi iniciada com a camada de imp
 - Versionamento inicial criado.
 - Branch principal padronizada.
 - Identidade Git configurada localmente.
+- Roadmap GitHub da milestone `v0.1.0-alpha` planejado.
+- Script de importação do roadmap GitHub criado.
+- Importação do roadmap GitHub `v0.1.0-alpha` executada com sucesso.
 - Manifesto de contatos normalizados gerado sem informações de áudio.
 - Validação básica executada com arquivo VCF de exemplo.
 - Validação básica executada com arquivo CSV de exemplo.
