@@ -44,6 +44,7 @@ A primeira implementação funcional do projeto foi iniciada com a camada de imp
 - Testes automatizados iniciais do fluxo de contatos adicionados.
 - Catálogo inicial de segmentos implementado para `contact_name`.
 - Resolvedor inicial de segmentos implementado sem TTS e sem geração de áudio.
+- Primeira exportação local de Experience Package implementada.
 - Plano inicial de geração TTS implementado sem integração real.
 - Executor fake/local para validação do pipeline implementado sem TTS real.
 - Relatório consolidado do pipeline inicial implementado.
