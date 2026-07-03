@@ -69,6 +69,7 @@ A primeira implementação funcional do projeto foi iniciada com a camada de imp
 - Primeira demonstração ponta a ponta do Agenda Falante implementada.
 - Documentação da primeira demonstração funcional de áudio real criada.
 - Composer mínimo implementado para concatenação simples de WAVs.
+- Estratégia futura de APK Android e Play Store documentada em ADR.
 - Manifesto de contatos normalizados gerado sem informações de áudio.
 - Validação básica executada com arquivo VCF de exemplo.
 - Validação básica executada com arquivo CSV de exemplo.
