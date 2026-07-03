@@ -1,0 +1,48 @@
+{
+  "manifest_type": "contacts_normalized",
+  "contacts": [
+    {
+      "contact_id": "4b84c18832cb55a83d849653eea287f43a5a066f",
+      "full_name": "João Silva",
+      "first_name": "João",
+      "last_name": "Silva",
+      "phones": [
+        "+5511999990000",
+        "+5511988887777"
+      ],
+      "emails": [
+        "joao.silva@example.com"
+      ],
+      "organization": "Escossio Labs",
+      "source": "csv"
+    },
+    {
+      "contact_id": "f31f1706558f3018c1e89bced96f610273c3d289",
+      "full_name": "Maria Souza",
+      "first_name": "Maria",
+      "last_name": "Souza",
+      "phones": [
+        "+5511977776666"
+      ],
+      "emails": [
+        "maria@example.com"
+      ],
+      "organization": "Escossio",
+      "source": "csv"
+    },
+    {
+      "contact_id": "e6af72718602cca9f0a115def714679857e79d0a",
+      "full_name": "Carlos Lima",
+      "first_name": "Carlos",
+      "last_name": "Lima",
+      "phones": [
+        "+5511966665555"
+      ],
+      "emails": [
+        "carlos.lima@example.com"
+      ],
+      "organization": "",
+      "source": "csv"
+    }
+  ]
+}

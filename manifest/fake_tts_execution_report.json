@@ -1,0 +1,19 @@
+{
+  "execution_type": "fake_tts_execution_report",
+  "requests": [
+    {
+      "request_id": "aaa11dcf3be1339b15f4c817408cb936ca3667d1",
+      "segment_id": "4b3e10a3fac390cec074456aeda64c3e48fb4889",
+      "output_path": "output/audio/segments/4b3e10a3fac390cec074456aeda64c3e48fb4889.wav",
+      "status": "generated",
+      "error": null
+    },
+    {
+      "request_id": "624f6037ae9c85a61d4c3bf9c1ee295c6e147236",
+      "segment_id": "014848647aa979bc5f07fb27fb6685fcfaa3630d",
+      "output_path": "output/audio/segments/014848647aa979bc5f07fb27fb6685fcfaa3630d.wav",
+      "status": "generated",
+      "error": null
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "catalog_type": "segment_catalog",
+  "segments": [
+    {
+      "segment_id": "4b3e10a3fac390cec074456aeda64c3e48fb4889",
+      "segment_type": "contact_name",
+      "text": "João Silva",
+      "language": "pt-BR",
+      "voice": "default",
+      "source_contact_id": "746c8d05c3a0b46c812af031fc757f55fe0034e3",
+      "status": "missing"
+    },
+    {
+      "segment_id": "014848647aa979bc5f07fb27fb6685fcfaa3630d",
+      "segment_type": "contact_name",
+      "text": "Maria Souza",
+      "language": "pt-BR",
+      "voice": "default",
+      "source_contact_id": "cc0629fa0d825d98b04caf3f281b268f481871e7",
+      "status": "missing"
+    }
+  ]
+}

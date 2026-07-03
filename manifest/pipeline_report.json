@@ -1,0 +1,22 @@
+{
+  "input_file": "fixtures/sample_contacts.vcf",
+  "input_format": "vcf",
+  "contacts_imported": 2,
+  "contacts_normalized": 2,
+  "segments_total": 2,
+  "segments_initial_available": 0,
+  "segments_initial_missing": 2,
+  "tts_requests_created": 2,
+  "fake_tts_generated": 2,
+  "fake_tts_failed": 0,
+  "segments_final_available": 2,
+  "segments_final_missing": 0,
+  "artifacts": {
+    "contacts_manifest": "workdir/contacts_normalized.json",
+    "segment_catalog": "workdir/segment_catalog.json",
+    "segment_catalog_resolved_initial": "workdir/segment_catalog_resolved_initial.json",
+    "tts_generation_plan": "workdir/tts_generation_plan.json",
+    "fake_tts_execution_report": "workdir/fake_tts_execution_report.json",
+    "segment_catalog_resolved_final": "workdir/segment_catalog_resolved_final.json"
+  }
+}

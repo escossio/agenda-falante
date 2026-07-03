@@ -1,0 +1,43 @@
+{
+  "preview_type": "real_tts_payloads_preview",
+  "requests": [
+    {
+      "request_id": "aaa11dcf3be1339b15f4c817408cb936ca3667d1",
+      "segment_id": "4b3e10a3fac390cec074456aeda64c3e48fb4889",
+      "usage_profile": "fast_name",
+      "endpoint": "/api/generate-audio",
+      "method": "POST",
+      "payload": {
+        "text": "João Silva",
+        "provider": "elevenlabs",
+        "language": "pt-BR",
+        "voice": "default",
+        "speed": 1.0,
+        "humanization": {
+          "enabled": false,
+          "preset": "natural"
+        }
+      },
+      "dry_run": true
+    },
+    {
+      "request_id": "624f6037ae9c85a61d4c3bf9c1ee295c6e147236",
+      "segment_id": "014848647aa979bc5f07fb27fb6685fcfaa3630d",
+      "usage_profile": "fast_name",
+      "endpoint": "/api/generate-audio",
+      "method": "POST",
+      "payload": {
+        "text": "Maria Souza",
+        "provider": "elevenlabs",
+        "language": "pt-BR",
+        "voice": "default",
+        "speed": 1.0,
+        "humanization": {
+          "enabled": false,
+          "preset": "natural"
+        }
+      },
+      "dry_run": true
+    }
+  ]
+}

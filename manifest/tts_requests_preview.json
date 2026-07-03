@@ -1,0 +1,38 @@
+{
+  "preview_type": "tts_requests_preview",
+  "tts_engine": "escossio_tts",
+  "requests": [
+    {
+      "request_id": "aaa11dcf3be1339b15f4c817408cb936ca3667d1",
+      "text": "João Silva",
+      "language": "pt-BR",
+      "voice": "default",
+      "format": "wav",
+      "usage_profile": "fast_name",
+      "output_path": "output/audio/segments/4b3e10a3fac390cec074456aeda64c3e48fb4889.wav",
+      "cache_key": "c6208d0cf6e13df3b95a2daef1fd743e0d1b3f14",
+      "metadata": {
+        "source": "agenda_falante",
+        "purpose": "segment_generation"
+      },
+      "tts_engine": "escossio_tts",
+      "dry_run": true
+    },
+    {
+      "request_id": "624f6037ae9c85a61d4c3bf9c1ee295c6e147236",
+      "text": "Maria Souza",
+      "language": "pt-BR",
+      "voice": "default",
+      "format": "wav",
+      "usage_profile": "fast_name",
+      "output_path": "output/audio/segments/014848647aa979bc5f07fb27fb6685fcfaa3630d.wav",
+      "cache_key": "b0d7d32a2a955b5b4d3f9eab2b4f2e81af4e7a98",
+      "metadata": {
+        "source": "agenda_falante",
+        "purpose": "segment_generation"
+      },
+      "tts_engine": "escossio_tts",
+      "dry_run": true
+    }
+  ]
+}

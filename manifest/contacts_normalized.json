@@ -1,0 +1,34 @@
+{
+  "manifest_type": "contacts_normalized",
+  "contacts": [
+    {
+      "contact_id": "746c8d05c3a0b46c812af031fc757f55fe0034e3",
+      "full_name": "João Silva",
+      "first_name": "João",
+      "last_name": "Silva",
+      "phones": [
+        "+5511999990000"
+      ],
+      "emails": [
+        "joao.silva@example.com"
+      ],
+      "organization": "Escossio Labs",
+      "source": "vcf"
+    },
+    {
+      "contact_id": "cc0629fa0d825d98b04caf3f281b268f481871e7",
+      "full_name": "Maria Souza",
+      "first_name": "Maria",
+      "last_name": "Souza",
+      "phones": [
+        "+5511988887777"
+      ],
+      "emails": [
+        "maria@example.com",
+        "maria.souza@example.com"
+      ],
+      "organization": "",
+      "source": "vcf"
+    }
+  ]
+}
